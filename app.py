@@ -1,4 +1,3 @@
-from altair. vegalite.v4.schema.core import Data
 import pandas as pd
 import yfinance as yf
 import altair as alt
